@@ -15,6 +15,6 @@ Welcome to the **stats220** repository! This space is dedicated to the collabora
 3. Contribute by creating new branches for projects or improvements.
 
 ### Useful Links
-
+- [GitHub Repository] (https://github.com/mihindikar/stats220.git)
 
 Feel free to reach out with questions or ideas! Let's build a thriving statistical community together.
